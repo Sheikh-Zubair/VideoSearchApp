@@ -1,8 +1,8 @@
 /node_modules
+package-lock.json
 bundle.js
 npm-debug.log
 .DS_Store
-package-lock.json
 
 # IntelliJ
 *.iml
